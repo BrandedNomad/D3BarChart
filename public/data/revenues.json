@@ -1,0 +1,37 @@
+[
+	{
+		"month": "January",
+		"revenue": "30432",
+		"profit": "8342"
+	},
+	{
+		"month": "February",
+		"revenue": "19342",
+		"profit": "10342"
+	},
+	{
+		"month": "March",
+		"revenue": "20443",
+		"profit": "18423"
+	},
+	{
+		"month": "April",
+		"revenue": "26342",
+		"profit": "15432"
+	},
+	{
+		"month": "May",
+		"revenue": "34213",
+		"profit": "10434"
+	},
+	{
+		"month": "June",
+		"revenue": "50321",
+		"profit": "20343"
+	},
+	{
+		"month": "July",
+		"revenue": "54273",
+		"profit": "30452"
+	}
+]
